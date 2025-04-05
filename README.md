@@ -13,15 +13,7 @@ This is a simple real-time chatting application built using **Node.js**, **Expre
 
 ---
 
-## 📁 Project Structure
 
-basic-chatting-app/ │ ├── public/ │ ├── index.html # Frontend UI │ └── index.css # Styling │ ├── server.js # Express + Socket.io server ├── package.json └── README.md # You're here!
-
-yaml
-Copy
-Edit
-
----
 
 ## 🛠️ Technologies Used
 
@@ -36,7 +28,7 @@ Edit
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/Ramanand-tomar/basic-chatting-app.git
 cd basic-chatting-app
 2. Install dependencies
@@ -79,9 +71,6 @@ This project is open-source and available under the MIT License.
 👨‍💻 Author
 Made with ❤️ by Ramanand Tomar
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -90,7 +79,6 @@ Edit
 - Paste this full content into that file and save it.
 - Commit and push it:
 
-```bash
 git add README.md
 git commit -m "Added README file"
 git push origin main
